@@ -7,11 +7,11 @@
 <div align="center">
 
 
-[![abdomenatlas2.0 dataset](https://img.shields.io/badge/PanTS-Dataset-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-dataset)
-[![abdomenatlas2.0 benchmark](https://img.shields.io/badge/PanTS-Benchmark-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-benchmark)
-[![abdomenatlas2.0 model](https://img.shields.io/badge/PanTS-Model-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-model) <br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrGiovanni/PanTS&left_color=%2363C7E6&right_color=%23CEE75F)
-[![GitHub Repo stars](https://img.shields.io/github/stars/MrGiovanni/PanTS?style=social)](https://github.com/BodyMaps/AndomenAtlas2.0/stargazers) 
+[![abdomenatlas2.0 dataset](https://img.shields.io/badge/AbdomenAtlas2.0-Dataset-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-dataset)
+[![abdomenatlas2.0 benchmark](https://img.shields.io/badge/AbdomenAtlas2.0-Benchmark-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-benchmark)
+[![abdomenatlas2.0 model](https://img.shields.io/badge/AbdomenAtlas2.0-Model-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-model) <br/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=BodyMaps/AbdomenAtlas2.0&left_color=%2363C7E6&right_color=%23CEE75F)
+[![GitHub Repo stars](https://img.shields.io/github/stars/BodyMaps/AndomenAtlas2.0?style=social)](https://github.com/BodyMaps/AndomenAtlas2.0/stargazers) 
 <a href="https://twitter.com/bodymaps317">
         <img src="https://img.shields.io/twitter/follow/BodyMaps?style=social" alt="Follow on Twitter" />
 </a><br/>  
@@ -23,7 +23,7 @@ We present **AbdomemAtlas2.0** (The Multi-Tumor Segmentation Dataset) recently c
 # Paper
 
 <b>Scaling Tumor Segmentation: Best Lessons from Real and Synthetic Data</b> <br/>
-[Wenxuan Li](https://scholar.google.com/citations?hl=en&user=tpNZM2YAAAAJ), [Xinze Zhou](), [Qi Chen](), ..., [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Zongwei Zhou](https://www.zongweiz.com/)<sup>★</sup> <br/>
+[Qi Chen](https://qic999.github.io/), [Xinze Zhou](), ...,[Yefeng Zheng](https://sites.google.com/site/yefengzheng/), [Ling Shao](https://ling-shao.github.io/), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Zongwei Zhou](https://www.zongweiz.com/)<sup>★</sup> <br/>
 Johns Hopkins University <br/>
 ICCV 2025 <br/>
 
@@ -44,13 +44,10 @@ wget http://www.cs.jhu.edu/~zongwei/dataset/AbdomenAtlas2.0Mini_label.tar
 #### External *out-of-distribution* test set
 
 
-- Proprietary **UCSF Pancreatic Dataset** (*n*=13,458)
-- Proprietary **Polish Pancreatic Dataset** (*n*=5,259)
-- Proprietary **Peking University Dataset** (*n*=3,066)
-- RSNA **[Abdominal Trauma Detection Dataset](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/data)** (*n*=4,706)
-- RSNA **[Abdominal Trauma Detection Dataset](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/data)** (*n*=4,706)
-- RSNA **[Abdominal Trauma Detection Dataset](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/data)** (*n*=4,706)
-- RSNA **[Abdominal Trauma Detection Dataset](https://www.kaggle.com/competitions/rsna-2023-abdominal-trauma-detection/data)** (*n*=4,706)
+- Proprietary **JHH Pancreatic Dataset**
+- **[3D-IRCADb Dataset](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)**
+- **[PANORAMA Dataset](https://panorama.grand-challenge.org/)**
+- **[Kipa Dataset](https://kipa22.grand-challenge.org/)**
 
 # AbdomenAtlas2.0 Benchmark
 
