@@ -7,11 +7,11 @@
 <div align="center">
 
 
-[![abdomenatlas2.0 dataset](https://img.shields.io/badge/AbdomenAtlas2.0-Dataset-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-dataset)
-[![abdomenatlas2.0 benchmark](https://img.shields.io/badge/AbdomenAtlas2.0-Benchmark-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-benchmark)
-[![abdomenatlas2.0 model](https://img.shields.io/badge/AbdomenAtlas2.0-Model-FF4040.svg)](https://github.com/BodyMaps/AndomenAtlas2.0?tab=readme-ov-file#pants-model) <br/>
+[![abdomenatlas2.0 dataset](https://img.shields.io/badge/AbdomenAtlas2.0-Dataset-FF4040.svg)](https://github.com/BodyMaps/AbdomenAtlas2.0?tab=readme-ov-file#pants-dataset)
+[![abdomenatlas2.0 benchmark](https://img.shields.io/badge/AbdomenAtlas2.0-Benchmark-FF4040.svg)](https://github.com/BodyMaps/AbdomenAtlas2.0?tab=readme-ov-file#pants-benchmark)
+[![abdomenatlas2.0 model](https://img.shields.io/badge/AbdomenAtlas2.0-Model-FF4040.svg)](https://github.com/BodyMaps/AbdomenAtlas2.0?tab=readme-ov-file#pants-model) <br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BodyMaps/AbdomenAtlas2.0&left_color=%2363C7E6&right_color=%23CEE75F)
-[![GitHub Repo stars](https://img.shields.io/github/stars/BodyMaps/AndomenAtlas2.0?style=social)](https://github.com/BodyMaps/AndomenAtlas2.0/stargazers) 
+[![GitHub Repo stars](https://img.shields.io/github/stars/BodyMaps/AbdomenAtlas2.0?style=social)](https://github.com/BodyMaps/AbdomenAtlas2.0/stargazers) 
 <a href="https://twitter.com/bodymaps317">
         <img src="https://img.shields.io/twitter/follow/BodyMaps?style=social" alt="Follow on Twitter" />
 </a><br/>  
@@ -32,8 +32,8 @@ ICCV 2025 <br/>
 # AbdomenAtlas2.0 Dataset
 
 ```shell
-git clone https://github.com/BodyMaps/AndomenAtlas2.0.git
-cd AndomenAtlas2.0
+git clone https://github.com/BodyMaps/AbdomenAtlas2.0.git
+cd AbdomenAtlas2.0
 bash download_AbdomenAtlas2.0_ct.sh # It needs ~400GB storage
 wget http://www.cs.jhu.edu/~zongwei/dataset/AbdomenAtlas2.0Mini_label.tar
 ```
@@ -83,7 +83,7 @@ wget http://www.cs.jhu.edu/~zongwei/dataset/AbdomenAtlas2.0Mini_label.tar
   author={Chen, Qi and Zhou, Xinze and Liu, Chen and Chen, Hao and Li, Wenxuan and Jiang, Zekun and Huang, Ziyan and Zhao, Yuxuan and Yu, Dexin and He, Junjun and others},
   journal={arXiv preprint arXiv:2510.14831},
   year={2025},
-  url={https://github.com/BodyMaps/AndomenAtlas2.0}
+  url={https://github.com/BodyMaps/AbdomenAtlas2.0}
 }
 ```
 
