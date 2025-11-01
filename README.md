@@ -78,10 +78,11 @@ wget http://www.cs.jhu.edu/~zongwei/dataset/AbdomenAtlas2.0Mini_label.tar
 # Citation
 
 ```
-@article{chen2025scaling,
+@inproceedings{chen2025scaling,
   title={Scaling Tumor Segmentation: Best Lessons from Real and Synthetic Data},
   author={Chen, Qi and Zhou, Xinze and Liu, Chen and Chen, Hao and Li, Wenxuan and Jiang, Zekun and Huang, Ziyan and Zhao, Yuxuan and Yu, Dexin and He, Junjun and others},
-  journal={arXiv preprint arXiv:2510.14831},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={24001--24013},
   year={2025},
   url={https://github.com/BodyMaps/AbdomenAtlas2.0}
 }
