@@ -34,8 +34,9 @@ ICCV 2025 <br/>
 ```shell
 git clone https://github.com/BodyMaps/AbdomenAtlas2.0.git
 cd AbdomenAtlas2.0
+cd data
 bash download_AbdomenAtlas2.0_ct.sh # It needs ~400GB storage
-wget http://www.cs.jhu.edu/~zongwei/dataset/AbdomenAtlas2.0Mini_label.tar
+bash download_AbdomenAtlas2.0_label.sh
 ```
 
 #### Official training and Validation set
